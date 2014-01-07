@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\bin\Debug\Area y longitud de un circulo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\bin\Debug\Area y longitud de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\bin\Debug\Area y longitud de un circulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area y longitud de un circulo.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area_y_longitud_de_un_circulo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area_y_longitud_de_un_circulo.Properties.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area y longitud de un circulo.csproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area y longitud de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area y longitud de un circulo\obj\Debug\Area y longitud de un circulo.pdb
